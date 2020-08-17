@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>HTTP 404 Not Found</title>
+</head>
+<body  BGCOLOR="#CEE7FF" TEXT="Black" link="Navy" vlink="Purple" alink="Aqua">
+<table width="80%">
+<form action="/search.php3" method="get">
+<tr width="100%" bgcolor="#8CCEF7">
+<td>
+	<a href="/"><img src="tag.gif" width="127" height="71" alt="" border="0"></a>
+</td>
+  <td width="590" align="center" bgcolor="#CEE7FF">
+<b><a href="/search.php3">Quotation Search</a></b> by keyword or author: <input type="text" size="20" name="homesearch">
+&nbsp;
+<input type="image" src="srchbutn.gif" alt="Start the search" align="top" 
+width="92" height="21" border="0" vspace="3">
+	</td>	
+</tr>
+</form>
+</table>
+<h1><a href="/">The Quotations Page</a></h1>
+<h2>The page cannot be found</h2>
+<p>The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+ (Error 404 - File not found)</p>
+ <p>If you followed a link to get here, please notify the person who edits the page you linked from.
+ If you followed a link at The Quotations Page to get here, please <a href="mail.php3">contact us</a>.</p>
+<p>For your convenience, here are links to the main areas of <a href="http://www.quotationspage.com/">The Quotations Page</a>.</p>
+<table width="50%">
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="qotd.php3" title='Four quotations selected randomly each day'>&nbsp;&nbsp;Quotes of the Day&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="mqotd.php3" title='Four motivational quotations selected daily'>&nbsp;&nbsp;Motivational&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="quotes.php3" title='Browse quotations by Authors' names'>&nbsp;&nbsp;Author Index&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="search.php3" title='Search for quotations by keyword or author'>&nbsp;&nbsp;Search&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="random.php3" title='Random quotations on demand'>&nbsp;&nbsp;Random Quotes&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="special.php3" title='Semi-regular special features'>&nbsp;&nbsp;Special Features&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="lists.php3" title='Mailing lists for daily quotations'>&nbsp;&nbsp;Mailing Lists&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="books.php3" title='Browse or purchase quotation books'>&nbsp;&nbsp;Book Reviews&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="links.php3" title='Links to other quotation sites'>&nbsp;&nbsp;Links&nbsp;&nbsp;</a></b></td></tr>
+
+<tr align='center'><td nowrap bgcolor='#8CCEF7'><b><a class='navbar' href="forum/" title='Discuss quotations in our forum'>&nbsp;&nbsp;Forum&nbsp;&nbsp;</a></b></td></tr>
+
+</table>
+</body>
+</html>
+
